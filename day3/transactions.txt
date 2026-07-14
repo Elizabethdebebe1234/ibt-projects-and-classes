@@ -1,0 +1,7 @@
+Abebe,100
+Bekele,250
+chala,50
+sara,300
+Bekele, 400
+sara, 1000
+me, 10000000000
